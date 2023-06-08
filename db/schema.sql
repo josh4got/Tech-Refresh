@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techRefresh_db;
+CREATE DATABASE techRefresh_db;
